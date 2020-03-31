@@ -12,8 +12,9 @@ en utilisant le skill.py
 celui-ci permet de stocker les infos sur une base mongo 
 puis de les exporter sous un Dataframe
 
-le but final sera de trouver la meilleure equipe composee de 3p ersos differents  
-sachant qu'à chaque perso on peut lui associer 3 perso qui doivent etre differents de lui meme.
-ce perso recupera 20% des caracteristiques des persos associés qu'on ajoute a ses caracteristiques
+le but final sera de trouver la meilleure equipe composee de 3 persos differents  
+sachant qu'à chaque perso on peut lui associer 3 perso qui doivent etre differents de ce dernier.
+
+ce perso recupera 20% des caracteristiques des persos qui lui sont associés.
 
 
