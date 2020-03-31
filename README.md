@@ -13,7 +13,7 @@ celui-ci permet de stocker les infos sur une base mongo
 puis de les exporter sous un Dataframe
 
 le but final sera de trouver la meilleure equipe composee de 3p ersos differents  
-sachant qu'à chaque perso on peut lui associer 3 perso qui doit etre different de lui meme.
+sachant qu'à chaque perso on peut lui associer 3 perso qui doivent etre differents de lui meme.
 ce perso recupera 20% des caracteristiques des persos associés qu'on ajoute a ses caracteristiques
 
 
